@@ -3,7 +3,7 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye", 
 	"customizations": {
 		"vscode": {
 			"extensions": [
@@ -34,7 +34,8 @@
 				"uva-school-of-data-science.sds-vscode",
 				"GitHub.copilot-chat",
 				"GitHub.copilot",
-				"GitHub.codespaces"
+				"GitHub.codespaces",
+				"ms-toolsai.datawrangler"
 			]
 		}
 	},
