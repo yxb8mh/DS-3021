@@ -18,6 +18,7 @@ You've done most of the hard work already, so you should be ready to move forwar
 4. Evaluate the results using the confusion matrix (at the default threshold). Then talk through your question, summarize what 
 concerns or positive elements do you have about the model? 
 
+5. 
 Bonus: Adjust the function that selects k to output on Specificity instead of Accuracy
 """
 
